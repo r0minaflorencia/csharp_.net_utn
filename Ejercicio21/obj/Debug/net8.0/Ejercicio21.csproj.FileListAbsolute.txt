@@ -12,3 +12,4 @@ C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\refint\Ejercicio21.dl
 C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.pdb
 C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.genruntimeconfig.cache
 C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\ref\Ejercicio21.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.sourcelink.json

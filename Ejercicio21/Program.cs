@@ -26,8 +26,10 @@ else if (calificacion >= 7 && calificacion < 8.5)
 else if (calificacion >= 8.5 && calificacion < 10)
 {
     Console.WriteLine($"Tu calificación es: {calificacion}. Sobresaliente");
-} else if (calificacion == 10) {
-     Console.WriteLine($"Tu calificación es: {calificacion}. Matricula de Honor");
+}
+else if (calificacion == 10)
+{
+    Console.WriteLine($"Tu calificación es: {calificacion}. Matricula de Honor");
 }
 else
 {
