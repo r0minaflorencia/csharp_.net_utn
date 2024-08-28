@@ -1,0 +1,14 @@
+C:\Users\romin\Desktop\Csharp\Ejercicio21\bin\Debug\net8.0\Ejercicio21.exe
+C:\Users\romin\Desktop\Csharp\Ejercicio21\bin\Debug\net8.0\Ejercicio21.deps.json
+C:\Users\romin\Desktop\Csharp\Ejercicio21\bin\Debug\net8.0\Ejercicio21.runtimeconfig.json
+C:\Users\romin\Desktop\Csharp\Ejercicio21\bin\Debug\net8.0\Ejercicio21.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio21\bin\Debug\net8.0\Ejercicio21.pdb
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.AssemblyInfoInputs.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.AssemblyInfo.cs
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\refint\Ejercicio21.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.pdb
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\Ejercicio21.genruntimeconfig.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio21\obj\Debug\net8.0\ref\Ejercicio21.dll
