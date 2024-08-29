@@ -1,0 +1,15 @@
+C:\Users\romin\Desktop\Csharp\Ejercicio25\bin\Debug\net8.0\Ejercicio25.exe
+C:\Users\romin\Desktop\Csharp\Ejercicio25\bin\Debug\net8.0\Ejercicio25.deps.json
+C:\Users\romin\Desktop\Csharp\Ejercicio25\bin\Debug\net8.0\Ejercicio25.runtimeconfig.json
+C:\Users\romin\Desktop\Csharp\Ejercicio25\bin\Debug\net8.0\Ejercicio25.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio25\bin\Debug\net8.0\Ejercicio25.pdb
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.AssemblyInfoInputs.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.AssemblyInfo.cs
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.csproj.CoreCompileInputs.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.sourcelink.json
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\refint\Ejercicio25.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.pdb
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\Ejercicio25.genruntimeconfig.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio25\obj\Debug\net8.0\ref\Ejercicio25.dll
