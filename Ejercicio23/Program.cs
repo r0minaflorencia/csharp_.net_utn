@@ -21,7 +21,7 @@ do
             MostrarSaldo();
             break;
         case 2:
-            saldo = ExtraerSaldo();
+            ExtraerSaldo();
             break;
         case 3:
             Depositar();
