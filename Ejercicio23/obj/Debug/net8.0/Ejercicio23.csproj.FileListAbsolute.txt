@@ -1,0 +1,15 @@
+C:\Users\romin\Desktop\Csharp\Ejercicio23\bin\Debug\net8.0\Ejercicio23.exe
+C:\Users\romin\Desktop\Csharp\Ejercicio23\bin\Debug\net8.0\Ejercicio23.deps.json
+C:\Users\romin\Desktop\Csharp\Ejercicio23\bin\Debug\net8.0\Ejercicio23.runtimeconfig.json
+C:\Users\romin\Desktop\Csharp\Ejercicio23\bin\Debug\net8.0\Ejercicio23.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio23\bin\Debug\net8.0\Ejercicio23.pdb
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.AssemblyInfoInputs.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.AssemblyInfo.cs
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.sourcelink.json
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\refint\Ejercicio23.dll
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.pdb
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\Ejercicio23.genruntimeconfig.cache
+C:\Users\romin\Desktop\Csharp\Ejercicio23\obj\Debug\net8.0\ref\Ejercicio23.dll
