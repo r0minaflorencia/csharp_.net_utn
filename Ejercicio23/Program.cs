@@ -11,7 +11,7 @@ bool salir = false;
 
 do
 {
-    Console.WriteLine("\n 1- Consultar saldo\n 2- Extraer efectivo\n 3- Depositar\n 4- Salir\n");
+    Console.WriteLine("\n 1- Consultar saldo\n 2- Extraer efectivo\n 3- Ingresar dinero\n 4- Salir\n");
     opcion = int.Parse(Console.ReadLine());
 
 
@@ -24,10 +24,10 @@ do
             ExtraerSaldo();
             break;
         case 3:
-            Depositar();
+            Ingresar();
             break;
         case 4:
-            Console.WriteLine("Log out.");
+            Console.WriteLine("Salir");
             salir = true;
             break;
         default:
@@ -36,10 +36,12 @@ do
 
 } while (!salir);
 
-static void Depositar()
+void Ingresar()
 {
-    Console.WriteLine("En construcción...");
-    //TODO here
+    Console.Write("Monto a ingresar: ");
+    float monto = float.Parse(Console.ReadLine());
+    saldo += monto;
+    Console.WriteLine("Transacción exitosa");
 }
 
 float ExtraerSaldo()
@@ -50,7 +52,7 @@ float ExtraerSaldo()
     if (monto <= saldo)
     {
         saldo -= monto;
-        Console.WriteLine($"Retiro exitoso");
+        Console.WriteLine("Retiro exitoso");
     }
     else
     {
